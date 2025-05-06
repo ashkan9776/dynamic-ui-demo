@@ -15,11 +15,12 @@
 },
     {
       "type": "textinput",
-      "prop": {
+      "props": {
+        "placeholder": "نام خود را وارد کنید",
         "value": "",
         "onChangeText": "setName"
       }
-    },
+    }
     {
       "type": "text",
       "props": {
