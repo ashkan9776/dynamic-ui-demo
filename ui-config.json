@@ -1,0 +1,21 @@
+{
+  "components": [
+    {
+      "type": "text",
+      "props": {
+        "content": "سلام از سرور!",
+        "style": {
+          "fontSize": 20,
+          "color": "green"
+        }
+      }
+    },
+    {
+      "type": "button",
+      "props": {
+        "title": "کلیک کن",
+        "onPress": "alert('سلام!')"
+      }
+    }
+  ]
+}
