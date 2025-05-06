@@ -1,17 +1,13 @@
 {
   "components": [
-    {
-      "type": "appbar",
-      "props": {
-        "title": "داشبورد",
-        "backgroundColor": "#2196f3",
-        "color": "white",
-        "button": {
-          "icon": "≡",
-          "onPress": "alert('منو باز شد')"
-        }
-      }
-    },
+   {
+  "type": "appbar",
+  "props": {
+    "title": "داشبورد",
+    "backgroundColor": "#2196f3",
+    "color": "white"
+  }
+}
     {
       "type": "text",
       "props": {
