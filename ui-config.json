@@ -20,7 +20,7 @@
         "value": "",
         "onChangeText": "setName"
       }
-    }
+    },
     {
       "type": "text",
       "props": {
