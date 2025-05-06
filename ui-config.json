@@ -3,13 +3,13 @@
    {
   "type": "appbar",
   "props": {
-    "title": "داشبورد",
+    "title": "اپ بار من",
     "backgroundColor": "#2196f3",
     "color": "white",
     "style":
     {
       "marginTop":50,
-      "borderRadius": 20
+      "borderRadius": 30
     }
   }
 },
