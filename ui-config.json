@@ -3,7 +3,7 @@
         {
             "type": "appbar",
             "props": {
-                "title": "اپ بار من",
+                "title": "اپ بار",
                 "backgroundColor": "#2196f3",
                 "color": "white",
                 "style": {
