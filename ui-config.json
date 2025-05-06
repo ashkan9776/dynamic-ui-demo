@@ -5,7 +5,12 @@
   "props": {
     "title": "داشبورد",
     "backgroundColor": "#2196f3",
-    "color": "black"
+    "color": "black",
+    "style":
+    {
+      "marginTop":50,
+      "borderRadius": 20
+    }
   }
 },
     {
