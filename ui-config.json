@@ -3,18 +3,25 @@
     {
       "type": "text",
       "props": {
-        "content": "سلام از سرور!",
+        "content": "نسخه جدید UI!",
         "style": {
-          "fontSize": 20,
-          "color": "green"
+          "fontSize": 22,
+          "color": "red"
         }
       }
     },
     {
       "type": "button",
       "props": {
-        "title": "کلیک کن",
-        "onPress": "alert('سلام!')"
+        "title": "برو به سایت",
+        "onPress": "alert('در حال رفتن به سایت...')"
+      }
+    },
+    {
+      "type": "button",
+      "props": {
+        "title": "نمایش پیام",
+        "onPress": "alert('این یک پیام جدید است!')"
       }
     }
   ]
