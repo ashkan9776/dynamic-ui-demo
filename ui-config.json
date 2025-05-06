@@ -5,7 +5,7 @@
   "props": {
     "title": "داشبورد",
     "backgroundColor": "#2196f3",
-    "color": "black",
+    "color": "white",
     "style":
     {
       "marginTop":50,
