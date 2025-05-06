@@ -14,6 +14,14 @@
   }
 },
     {
+      "type": "textinput",
+      "prop": {
+         "placeholder": "نام خود را وارد کنید",
+        "value": "",
+        "onChangeText": "setName"
+      }
+    }
+    {
       "type": "text",
       "props": {
         "content": "نسخه جدید UI!",
