@@ -16,7 +16,7 @@
     {
       "type": "textinput",
       "prop": {
-         "placeholder": "نام خود را وارد کنید",
+        "placeholder": "نام خود را وارد کنید",
         "value": "",
         "onChangeText": "setName"
       }
