@@ -1,49 +1,48 @@
 {
-  "components": [
-   {
-  "type": "appbar",
-  "props": {
-    "title": "اپ بار من",
-    "backgroundColor": "#2196f3",
-    "color": "white",
-    "style":
-    {
-      "marginTop":50,
-      "borderRadius": 30
-    }
-  }
-},
-    {
-      "type": "textinput",
-      "props": {
-        "placeholder": "نام خود را وارد کنید",
-        "value": "",
-        "onChangeText": "setName"
-      }
-    },
-    {
-      "type": "text",
-      "props": {
-        "content": "نسخه جدید UI!",
-        "style": {
-          "fontSize": 22,
-          "color": "red"
+    "components": [
+        {
+            "type": "appbar",
+            "props": {
+                "title": "اپ بار من",
+                "backgroundColor": "#2196f3",
+                "color": "white",
+                "style": {
+                    "marginTop": 50,
+                    "borderRadius": 30
+                }
+            }
+        },
+        {
+            "type": "textinput",
+            "props": {
+                "placeholder": "نام خود را وارد کنید",
+                "value": "",
+                "onChangeText": "setName"
+            }
+        },
+        {
+            "type": "text",
+            "props": {
+                "content": "نسخه جدید UI!",
+                "style": {
+                    "fontSize": 22,
+                    "color": "red"
+                }
+            }
+        },
+        {
+            "type": "button",
+            "props": {
+                "title": "برو به سایت",
+                "onPress": "alert('در حال رفتن به سایت...')"
+            }
+        },
+        {
+            "type": "button",
+            "props": {
+                "title": "نمایش پیام",
+                "onPress": "alert('این یک پیام جدید است!')"
+            }
         }
-      }
-    },
-    {
-      "type": "button",
-      "props": {
-        "title": "برو به سایت",
-        "onPress": "alert('در حال رفتن به سایت...')"
-      }
-    },
-    {
-      "type": "button",
-      "props": {
-        "title": "نمایش پیام",
-        "onPress": "alert('این یک پیام جدید است!')"
-      }
-    }
-  ]
+    ]
 }
